@@ -1,0 +1,11 @@
+package com.said;
+
+public class MainJson {
+	
+	WebPage webPage;
+
+	public static void main(String[] args) {
+
+	}
+
+}
